@@ -20,7 +20,7 @@ Change directry to the folder.
 
 `cd fact-Bounty/`
 
-## Set up react server
+### Set up react server
 
 Run npm install in fact-bounty-client folder.
 
